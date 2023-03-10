@@ -5,7 +5,7 @@ This is my Angular CEP assignment showing CRUD Operations Insert Update Delete a
 
 ```
 $ mongod
-$ nodemondb.js
+$ nodemon db.js
 $ nodemon index.js
 
 http://localhost:3000/employees/
